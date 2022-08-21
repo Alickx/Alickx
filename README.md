@@ -10,12 +10,6 @@
 
 
 
-# :see_no_evil:来访次数
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
-
-
-
 # 💻 语言工具:
 
 
@@ -30,7 +24,7 @@
 
 
 
-![二丫讲梵's github stats](https://github-readme-stats.vercel.app/api?username=Alickx&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+![Alickx's github stats](https://github-readme-stats.vercel.app/api?username=Alickx&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 
 
