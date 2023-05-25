@@ -6,9 +6,6 @@
 
 # 💫 About Me:
 
-:smile:我现在工作在深圳一家语音社交公司<br>:rocket:我现在正在学习更多关于Java，Vue等知识<br>:bicyclist:你可以问我关于包括且不局限于Java，Vue，SpringBoot等<br>:writing_hand:我每个周末都会写一篇周末总结并发布在我的个人网站上<br>:spider_web:我的个人网站为: https://www.llwstu.com<br>
-
-
 
 # 💻 语言工具:
 
