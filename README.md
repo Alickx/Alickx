@@ -1,6 +1,2 @@
-​                              [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25D6F7&width=435&lines=%E4%BB%80%E4%B9%88%E9%83%BD%E6%97%A0%E6%B3%95%E8%88%8D%E5%BC%83%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%BB%80%E4%B9%88%E9%83%BD%E6%97%A0%E6%B3%95%E6%94%B9%E5%8F%98)](https://git.io/typing-svg)
-
-
-
-
-
+## 自我介绍
+Hello，i am Alickx，我是一名程序员，热爱技术，喜欢分享生活内容和技术细节。我是一名00后，大学专业是软件工程。我的爱好是玩电脑游戏和打篮球，电脑游戏主要玩 Apex，穿越火线，Minecraft... 我主要擅长 Java,Vue以及相关中间件
